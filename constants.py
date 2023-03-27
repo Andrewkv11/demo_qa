@@ -1,0 +1,13 @@
+# MAIN_PAGE_URL
+BASE_URL = 'https://demoqa.com/'
+
+
+# CARD_PAGES_URLS
+ELEMENTS_URL = f'{BASE_URL}elements'
+
+# ELEMENTS_PAGE_URLS
+CHECKBOX_URL = f'{BASE_URL}checkbox'
+
+# MAIN_HEADERS
+ELEMENTS_PAGE = 'Elements'
+CHECKBOX_PAGE = 'Check Box'

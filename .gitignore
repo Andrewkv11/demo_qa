@@ -1,0 +1,11 @@
+.idea
+node_modules/
+__pycache__
+*.pyc
+.env
+.pytest_cache
+.mypy_cache
+_temp
+temp
+venv
+/allure_results/
